@@ -1,0 +1,102 @@
+
+#Disables certain types. Note that all these configs, like in any other mod, only hide stuff from tabs and disable their recipes
+[types]
+
+	[types.wood_type]
+
+		[types.wood_type.ecologics]
+			flowering_azalea = true
+			azalea = true
+			coconut = true
+			walnut = true
+
+		[types.wood_type.aether]
+			skyroot = true
+
+		[types.wood_type.alexscaves]
+			pewen = true
+			thornwood = true
+
+		[types.wood_type.deeperdarker]
+			echo = true
+
+		[types.wood_type.ad_astra]
+			aeronos = true
+			strophar = true
+			glacian = true
+
+		[types.wood_type.undergarden]
+			smogstem = true
+			wigglewood = true
+			grongle = true
+
+	[types.leaves_type]
+
+		[types.leaves_type.ecologics]
+			coconut = true
+			walnut = true
+
+		[types.leaves_type.aether]
+			golden_oak = true
+			holiday = true
+			decorated_holiday = true
+			crystal = true
+			crystal_fruit = true
+			skyroot = true
+
+		[types.leaves_type.alexscaves]
+			ancient = true
+
+		[types.leaves_type.deeperdarker]
+			echo = true
+
+		[types.leaves_type.ad_astra]
+			glacian = true
+
+		[types.leaves_type.undergarden]
+			smogstem = true
+			wigglewood = true
+			grongle = true
+
+#Disables specific entries
+[entries]
+
+	[entries.wood_type]
+
+		[entries.wood_type.create]
+			window_pane = true
+			window = true
+
+		[entries.wood_type.farmersdelight]
+			cabinet = true
+
+		[entries.wood_type.friendsandfoes]
+			beehive = true
+
+		[entries.wood_type.refurbished_furniture]
+			lattice_fence = true
+			basin = true
+			cutting_board = true
+			drawer = true
+			kitchen_drawer = true
+			storage_cabinet = true
+			lattice_fence_gate = true
+			table = true
+			kitchen_cabinetry = true
+			bath = true
+			mail_box = true
+			crate = true
+			desk = true
+			dark_ceiling_fan = true
+			kitchen_sink = true
+			chair = true
+			light_ceiling_fan = true
+			kitchen_storage_cabinet = true
+			toilet = true
+			storage_jar = true
+
+	[entries.leaves_type]
+
+		[entries.leaves_type.refurbished_furniture]
+			hedge = true
+
