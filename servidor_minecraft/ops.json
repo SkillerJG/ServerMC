@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "aca3a2a5-b179-3e05-a528-e9caac7fc43f",
+    "name": "Skiller_JG",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

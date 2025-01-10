@@ -13,28 +13,51 @@
 		[types.wood_type.aether]
 			skyroot = true
 
-		[types.wood_type.alexscaves]
-			pewen = true
-			thornwood = true
+		[types.wood_type.twilightforest]
+			twilight_oak = true
+			canopy = true
+			mangrove = true
+			dark = true
+			time = true
+			transformation = true
+			mining = true
+			sorting = true
 
 		[types.wood_type.deeperdarker]
 			echo = true
-
-		[types.wood_type.ad_astra]
-			aeronos = true
-			strophar = true
-			glacian = true
 
 		[types.wood_type.undergarden]
 			smogstem = true
 			wigglewood = true
 			grongle = true
 
+		[types.wood_type.alexscaves]
+			pewen = true
+			thornwood = true
+
+		[types.wood_type.ad_astra]
+			aeronos = true
+			strophar = true
+			glacian = true
+
 	[types.leaves_type]
 
 		[types.leaves_type.ecologics]
 			coconut = true
 			walnut = true
+
+		[types.leaves_type.twilightforest]
+			beanstalk = true
+			thorn = true
+			twilight_oak = true
+			canopy = true
+			mangrove = true
+			dark = true
+			rainbow_oak = true
+			time = true
+			transformation = true
+			mining = true
+			sorting = true
 
 		[types.leaves_type.aether]
 			golden_oak = true
@@ -50,50 +73,56 @@
 		[types.leaves_type.deeperdarker]
 			echo = true
 
-		[types.leaves_type.ad_astra]
-			glacian = true
-
 		[types.leaves_type.undergarden]
 			smogstem = true
 			wigglewood = true
 			grongle = true
+
+		[types.leaves_type.ad_astra]
+			glacian = true
 
 #Disables specific entries
 [entries]
 
 	[entries.wood_type]
 
-		[entries.wood_type.create]
-			window_pane = true
-			window = true
+		[entries.wood_type.refurbished_furniture]
+			cutting_board = true
+			drawer = true
+			storage_cabinet = true
+			table = true
+			mail_box = true
+			dark_ceiling_fan = true
+			kitchen_sink = true
+			toilet = true
+			storage_jar = true
+			lattice_fence = true
+			basin = true
+			kitchen_drawer = true
+			lattice_fence_gate = true
+			kitchen_cabinetry = true
+			bath = true
+			crate = true
+			desk = true
+			chair = true
+			light_ceiling_fan = true
+			kitchen_storage_cabinet = true
 
-		[entries.wood_type.farmersdelight]
-			cabinet = true
+		[entries.wood_type.twilightforest]
+			hollow_log_horizontal = true
+			hollow_log_vertical = true
+			banister = true
+			hollow_log_climbable = true
 
 		[entries.wood_type.friendsandfoes]
 			beehive = true
 
-		[entries.wood_type.refurbished_furniture]
-			lattice_fence = true
-			basin = true
-			cutting_board = true
-			drawer = true
-			kitchen_drawer = true
-			storage_cabinet = true
-			lattice_fence_gate = true
-			table = true
-			kitchen_cabinetry = true
-			bath = true
-			mail_box = true
-			crate = true
-			desk = true
-			dark_ceiling_fan = true
-			kitchen_sink = true
-			chair = true
-			light_ceiling_fan = true
-			kitchen_storage_cabinet = true
-			toilet = true
-			storage_jar = true
+		[entries.wood_type.create]
+			window = true
+			window_pane = true
+
+		[entries.wood_type.farmersdelight]
+			cabinet = true
 
 	[entries.leaves_type]
 
